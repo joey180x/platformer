@@ -26,7 +26,8 @@ game.resources = [
 	 */
         {name: "level01A", type: "tmx", src: "data/map/level01A.tmx"},
         {name: "level01B", type: "tmx", src: "data/map/level01B.tmx"},
-        {name: "level02", type: "tmx", src: "data/map/level02.tmx"}
+        {name: "level02", type: "tmx", src: "data/map/level02.tmx"},
+        {name: "level03", type: "tmx", src: "data/map/level03.tmx"}
         
 
 	/* Sound effects. 
